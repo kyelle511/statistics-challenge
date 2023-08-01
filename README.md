@@ -3,7 +3,7 @@ Module 5 Challenge Assignment
 Matplotlib &amp; Pandas statistics and plotting methods
 ## Contributor: Katy Yelle
 ### Overview
-For this challenge there is a Jupyter Notebook script (pymaceuticals_working.ipynb) that prepares and cleans the data; generates summary statistics; creates bar charts and pie charts using both pandas and matplotlib; calculates quartiles, outliers and creates boxplots; creates a line plot and scatter plot; and calculates correlation and regression for a scatterplot for a anti-cancer drug study.
+For this challenge there is 'Pymaceuticals' folder which contains a data folder with two csv files (Mouse_metadata and Study_results) and a Jupyter Notebook script (pymaceuticals_working.ipynb). The Jupyter Notebook script prepares and cleans the data from the two csv files; generates summary statistics; creates bar charts and pie charts using both pandas and matplotlib; calculates quartiles, outliers and creates boxplots; creates a line plot and scatter plot; and calculates correlation and regression for a scatterplot for a anti-cancer drug study.
 
 When preparing and cleaning the data I used (https://www.geeksforgeeks.org/find-duplicate-rows-in-a-dataframe-based-on-all-or-selected-columns/) to help find duplicated data and (https://www.shanelynn.ie/pandas-drop-delete-dataframe-rows-columns/) for the method of removing the duplicated data from the dataframe. 
 
